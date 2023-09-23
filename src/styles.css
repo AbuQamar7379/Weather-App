@@ -1,0 +1,33 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.heading {
+    background-color: #007fff;
+    color: white;
+    padding: 30px;
+    margin-top: 0;
+}
+
+.cardHeading {
+    margin: 20px 0 !important;
+    font-weight: 600 !important;
+}
+
+.card {
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: start;
+}
+
+.cardImage {
+    width: 80px !important;
+    height: 80px !important;
+    padding: 10px !important;
+}
+
+.cardData {
+    display: flex;
+    justify-content: space-between;
+}
